@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/vrutanshgajjar/my-web-app/issues"
   },
-  "homepage": "https://github.com/vrutanshgajjar/my-web-app#readme"
+  "homepage": "https://github.com/vrutanshgajjar/my-web-app#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
